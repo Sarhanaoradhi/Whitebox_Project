@@ -27,21 +27,21 @@ Pre‑processing tasks address missing values, outliers and feature engineering
 
 ## How to Run
 1) Clone the repository
-git clone https://github.com/Sarhanaoradhi/Whitebox_Regression_Project.git
-cd Whitebox_Regression_Project
+git clone https://github.com/Sarhanaoradhi/Whitebox_Project.git
+cd Whitebox_Project
 
 2) Launch Jupyter Notebook
-jupyter notebook Whitebox_Regression_Project.ipynb or 
+jupyter notebook Regression project_ Husain Radhi or Classification Project_ Husain Radhi.ipynb
 
 3) Run the notebook cell by cell.
 
-4) Ensure you have the required libraries installed: pandas, numpy, scikit-learn, matplotlib, seaborn.
+4) Ensure you have the required libraries installed: pandas, re, numpy, scikit-learn, matplotlib, seaborn.
 
 5) The notebook is self‑contained: it walks through from data load to interpretation.
 
 ## Key Insights
 
-The regression model’s performance metrics (such as R², mean squared error) are reported in the notebook.
+The regression model’s performance metrics and classification metrics (such as R², root mean squared error, accuracy, precision) are reported in the notebook.
 
 Feature contributions are discussed in terms of their impact on the target.
 
