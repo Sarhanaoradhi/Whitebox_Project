@@ -1,9 +1,9 @@
-# Whitebox_Regression_Project_for_Video_Games_Dataset
-This repository contains a Jupyter Notebook that explores regression modelling. The aim is to build, evaluate and interpret models in a transparent using a video game dataset.
+# Whitebox_Project
+This repository contains two Jupyter Notebooks that explores regression and classification modeling. The aim is to build, evaluate and interpret models in a transparent way.
 
 ## Project Overview
 
-In the notebook, you will find the following steps:
+In the notebooks, you will find the following steps:
 
 Data loading and basic exploratory analysis
 
@@ -11,7 +11,7 @@ Pre‑processing of features (including handling missing values, encoding, scali
 
 Model training and evaluation on a hold‑out test set
 
-Interpretation of model outputs: coefficients, feature importances, residual analysis, and discussion of model behavior
+Interpretation of model outputs: coefficients, feature importances, residual analysis, Confusion matrix, accuracy, precision, and discussion of model behavior
 
 Conclusion summarizing findings and suggestions for further work
 
@@ -21,7 +21,7 @@ The notebook loads the dataset (details on source, number of observations and va
 
 Features include a mix of numeric and categorical variables
 
-Target variable is a continuous outcome (regression problem)
+Target variables are numerical values in regression and categorical in classification
 
 Pre‑processing tasks address missing values, outliers and feature engineering
 
@@ -31,7 +31,7 @@ git clone https://github.com/Sarhanaoradhi/Whitebox_Regression_Project.git
 cd Whitebox_Regression_Project
 
 2) Launch Jupyter Notebook
-jupyter notebook Whitebox_Regression_Project.ipynb
+jupyter notebook Whitebox_Regression_Project.ipynb or 
 
 3) Run the notebook cell by cell.
 
