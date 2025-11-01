@@ -53,6 +53,10 @@ Explore more complex interpretable models (e.g. decision paths)
 
 Compare white‑box approaches with black‑box ones (e.g., random forest, boosting) and discuss trade‑offs
 
-Expand feature engineering to improve model fit while maintaining interpretability
+Identify the most relevant features for the model
+
+Try to find optimal k value for the knn model 
+
+Expand feature engineering to improve model fit 
 
 Use a different dataset with more insight
